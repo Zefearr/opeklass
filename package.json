@@ -1,0 +1,25 @@
+{
+  "name": "oppeklass",
+  "version": "1.0.0",
+  "description": "oppeklass landin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skdesign",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.0.2",
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-watch": "^5.0.1",
+    "postcss-import": "^11.1.0",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0",
+    "stylelint-config-recommended": "^2.1.0"
+  }
+}

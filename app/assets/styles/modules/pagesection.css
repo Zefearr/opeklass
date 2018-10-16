@@ -1,0 +1,15 @@
+.page-section {
+    width:100%;
+    position: relative;
+    margin: 0 auto;
+}
+.page-section::after {
+    content:''; 
+    display:block;
+    clear: both;
+}
+
+.page-section--main-banner {
+    width:100%; 
+  
+}
